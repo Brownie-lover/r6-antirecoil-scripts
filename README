@@ -1,0 +1,13 @@
+if u dont have python, u gotta install it.
+https://www.python.org/downloads/
+
+then once its installed copy the directory of the downloaded file.
+open cmd (command prompt) then type in, "cd (PASTE UR DIRECTORY FOR THE FILE HERE)" then enter
+it should look something like this
+C:\Users\YOURUSERNAME\Downloads> (mine is saved in downloads but it should show the directory u copied)
+then type "py (THEFILENAMEHERE).py" so for this file it would look like "py antirecoil-kbmGUI.py"
+then if it says to install any dependecies then install the dependecies
+and it should work :)
+
+
+MAKE SURE TO BE IN WINDOWED BORDERLESS!!!!
